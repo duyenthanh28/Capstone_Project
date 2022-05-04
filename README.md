@@ -14,17 +14,21 @@ Before explore data, we clean and transfor the data. We used Matplotlib and Seab
 Some meaningful insights that we have are: Best selling products, the frequent words describe the products, the most ordering in Aisle, number of item in each department, the most ordering in the department, reorder ratio per department/aisle, relationship between reorder and add-to-cart.
 
 4. K-Mean CLUSTERING ANALYSIS
+
 What we  looked for here is if the clusters have different numbers and proportions of these items, or whether a cluster is defined by products that aren't on this list.
 
 5. ASSOCIATION RULE MINING
+
 A recommendation system create to validate our apriori model. We are able to fetch various product recommendations based on a selected product.
 
 6. MODELLING & MODEL EVALUATION
+
 Before building the model, we create 11 predictor variables, next we split train set and test set.
 Since the dataset is imbalance and complicated, we use XGboost and LightGBM models for our project.
 The perfomance metrics that we use are: confusion matrix, precision, recall and F1-score.
 
 7. PREDICTION
+
 XGBoost model has the higher F1-Score, we use it to predict on the feature orders.
 
 
