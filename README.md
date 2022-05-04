@@ -34,4 +34,4 @@ The perfomance metrics that we use are: confusion matrix, precision, recall and 
 XGBoost model has the higher F1-Score, we use it to predict on the feature orders.
 Prediction is saved as a csv file named: reorder_prediction.csv
 
-### Team members: Duyen Thanh, Neha Palnati, Vanshika Gupta, Xiangnan Cui
+** Team members: Duyen Thanh, Neha Palnati, Vanshika Gupta, Xiangnan Cui
