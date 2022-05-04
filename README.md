@@ -17,11 +17,11 @@ Some meaningful insights that we have: Best selling products, the frequent words
 
 ## 4. K-Mean Clustering Analysis
 
-What we  looked for here is if the clusters have different numbers and proportions of these items, or whether a cluster is defined by products that aren't on this list.
+By applying K-means clustering, we map the users in five groups, who are new users, who purchase daily fresh products and dairy, who are majorly families that have babies, who like to eat on the go and easy cooking items, and who rely more on frozen food. We can target different cluster customers to promote different aisles products to make them purchase more food.
 
 ## 5. Association Rule Mining
 
-A recommendation system create to validate our apriori model. We are able to fetch various product recommendations based on a selected product.
+We applied Apriori association rules to find the most frequent item bundles. We are able to fetch various product recommendations based on a selected product.
 
 ## 6. Models
 
