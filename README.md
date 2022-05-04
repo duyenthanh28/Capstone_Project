@@ -1,5 +1,7 @@
 # Instacart Market Basket Analysis
 
+Data can be downloaded here: Kaggle : https://www.kaggle.com/c/instacart-market-basket-analysis/data
+
 1.  PROJECT OVERVIEW
 
 Within two past year’s covid-19 pandemic, there’s a rapid growth on online shopping no longer concentrated on Amazon.com, but also other new grocery online shopping websites like Instacart. Instacart provides a new shopping experience for customers to buy grocery items online from different department stores such as Costco, Safeway, Walmart, Target and so on. It shows the convenience of the same-day grocery delivery and pick-up service especially during COVID-19. There’s no need to go to grocery stores for customers to shop their favorites and save their time. It creates an easier way to fill peoples’ refrigerator and stomach with their personal flavors. With the business growth, the company will need more attention on customer’s behavior to dig more valuable information on business development. Our project will bring great business value and will unlock the hidden business insights from Instacart customers’ purchase history and the result of this project could be used to improve Instacart’s profitability and increase customer satisfaction.
