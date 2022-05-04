@@ -13,7 +13,7 @@ The goal of the project is to use the anonymized data on customer orders over ti
 ## 3. Data Exploration
 
 Before explore data, we do preprocessing the dataset. We use Matplotlib and Seaborn for our visualization. 
-Some meaningful insights that we have are: Best selling products, the frequent words describe the products, the most ordering in Aisle, number of item in each department, the most ordering in the department, reorder ratio per department/aisle, relationship between reorder and add-to-cart.
+Some meaningful insights that we have: Best selling products, the frequent words describe the products, the most ordering in Aisle, number of item in each department, the most ordering in the department, reorder ratio per department/aisle, relationship between reorder and add-to-cart.
 
 ## 4. K-Mean Clustering Analysis
 
@@ -27,7 +27,7 @@ A recommendation system create to validate our apriori model. We are able to fet
 
 Before building the model, we create 11 predictor variables, next we split train set and test set.
 Since the dataset is imbalance and complicated, we use XGboost and LightGBM models for our project.
-The perfomance metrics that we use are: confusion matrix, precision, recall and F1-score.
+The perfomance metrics that we use: confusion matrix, precision, recall and F1-score.
 
 ## 7. Prediction
 
